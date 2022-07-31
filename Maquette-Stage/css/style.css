@@ -1,0 +1,152 @@
+.container1{
+    padding-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.container2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.container2 ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: small;
+}
+
+.logo{
+    font-family:monospace; 
+    font-size: 25px; 
+    margin-left: 10px; 
+    margin-right: 50px;
+    text-shadow: 0.5px 0.5px rgba(128, 128, 128, 0.635);
+}
+
+.inscrire{
+    font-size: small;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px 5px -3px #888;
+    background-color: white;
+    padding: 2px 15px;
+}
+
+
+.container3{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.p1{
+    background-color: white;
+    padding: 20px 60px;
+    font-family: monospace;
+    font-size: 20px;
+    text-shadow: 0.5px 0.5px rgba(128, 128, 128, 0.635);
+    margin-top: -0.2px;
+}
+
+.header{
+    background-color: rgba(255, 255, 0, 0.959); 
+    height: 170px; 
+    width:100%;
+}
+
+.footer{
+    background-color: rgba(255, 255, 0, 0.959); 
+    height: 100px; 
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.containerBody{
+    background-color: white;  
+}
+
+.container4{
+    display: flex;
+    justify-content: center;
+}
+
+.p2{
+    background-color: rgba(255, 255, 0, 0.959);
+    border: none;
+    border-radius: 16px;
+    padding: 15px 160px;
+    font-family: monospace;
+    font-size: 14px;
+    text-shadow: 0.5px 0.5px rgba(128, 128, 128, 0.263);
+    box-shadow: 1px 1.5px rgba(128, 128, 128, 0.553);
+}
+
+.containerall{
+    margin: 10px 20px;
+}
+
+.container5{
+    background-color: yellow;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 1px 1.3px rgba(128, 128, 128, 0.42);
+}
+
+.ifram{
+    background-color: white; 
+    border-radius: 10px; 
+    margin: 10px;
+   
+}
+
+
+/*
+.p1{
+    padding: 30px; 
+    background-color: aliceblue; 
+    text-align: center; 
+    width: fit-content; 
+    margin-left: 450px; 
+    color: black;
+    text-shadow: 0px 4px 5px -3px #888;
+    text-transform: uppercase;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.p2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width: fit-content;
+    background-color: yellow;
+    padding: 10px 90px;
+    text-align: center;
+    box-shadow: 0px 4px 5px -3px #888;
+    border-radius: 10px;
+    text-shadow: 0px 0px 10px black;
+   
+}
+
+.div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*/
+
+
+
+
